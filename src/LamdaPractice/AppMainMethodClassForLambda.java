@@ -1,7 +1,6 @@
 package LamdaPractice;
 
 public class AppMainMethodClassForLambda {
-
 	public static void main(String[] args) {
 		Human tom = new Human();
 		//walker(tom);

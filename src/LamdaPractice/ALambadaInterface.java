@@ -1,7 +1,6 @@
 package LamdaPractice;
 
-public interface ALambadaInterface {
-	
-	public void someMethod();
-
+@FunctionalInterface
+interface ALambadaInterface {
+	void someMethod();
 }
