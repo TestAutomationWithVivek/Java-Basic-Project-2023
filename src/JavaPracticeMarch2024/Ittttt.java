@@ -25,6 +25,7 @@ public class Ittttt {
 		}
 		
 		System.out.println(inital);
+                System.out.println("");
 
 	}
 
