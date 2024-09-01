@@ -1,6 +1,6 @@
 package JavaPracticeMarch2024;
 
-public class Ittttt {
+public class Java_Code_To_Extract_Intitial_from_String {
 
 	public static void main(String[] args) {
 		String fullName = "Vivek Sanjay Fadat";
